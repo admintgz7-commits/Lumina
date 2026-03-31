@@ -1,0 +1,64 @@
+{
+  "terms": [
+    {
+      "term": "LLM",
+      "definition": "Large Language Model. Modèle d'intelligence artificielle entraîné sur de grandes quantités de texte pour comprendre et générer du langage naturel. GPT-4, Claude et Gemini sont des LLM.",
+      "category": "Fondamentaux"
+    },
+    {
+      "term": "Prompt",
+      "definition": "Instruction ou question envoyée à un outil IA pour obtenir une réponse. La qualité du prompt influence directement la qualité du résultat — c'est ce qu'on appelle le prompt engineering.",
+      "category": "Fondamentaux"
+    },
+    {
+      "term": "Génération d'images (IA)",
+      "definition": "Technologie permettant de créer des images à partir d'une description textuelle. Les modèles les plus connus sont Midjourney, DALL-E et Stable Diffusion.",
+      "category": "Création visuelle"
+    },
+    {
+      "term": "Avatar IA",
+      "definition": "Représentation numérique d'un personnage (réaliste ou stylisé) capable de parler, lire un script et s'exprimer avec des mouvements naturels — sans tournage réel.",
+      "category": "Vidéo"
+    },
+    {
+      "term": "Text-to-Speech (TTS)",
+      "definition": "Technologie de synthèse vocale qui convertit du texte écrit en voix naturelle. Les meilleurs outils (ElevenLabs, Murf) permettent de cloner une voix réelle.",
+      "category": "Audio"
+    },
+    {
+      "term": "SEO (Search Engine Optimization)",
+      "definition": "Ensemble des techniques visant à optimiser un site ou un contenu pour qu'il apparaisse en bonne position dans les résultats de moteurs de recherche comme Google.",
+      "category": "Marketing"
+    },
+    {
+      "term": "Freemium",
+      "definition": "Modèle commercial où l'outil est accessible gratuitement avec des fonctionnalités de base, et propose des abonnements payants pour des fonctionnalités avancées.",
+      "category": "Tarification"
+    },
+    {
+      "term": "API (Application Programming Interface)",
+      "definition": "Interface permettant à des applications de communiquer entre elles. Un outil 'API ready' peut être intégré dans vos propres outils ou automatisations.",
+      "category": "Technique"
+    },
+    {
+      "term": "Modèle de diffusion",
+      "definition": "Architecture d'IA utilisée pour la génération d'images. Le modèle apprend à reconstruire des images à partir du bruit — c'est la base de Stable Diffusion, DALL-E et Midjourney.",
+      "category": "Fondamentaux"
+    },
+    {
+      "term": "RAG (Retrieval-Augmented Generation)",
+      "definition": "Technique qui connecte un LLM à une base de connaissance externe pour qu'il réponde avec des informations actualisées et vérifiables, réduisant les hallucinations.",
+      "category": "Fondamentaux"
+    },
+    {
+      "term": "Clonage vocal",
+      "definition": "Technologie permettant de reproduire une voix humaine spécifique à partir d'un court échantillon audio. Utilisée dans les outils TTS comme ElevenLabs ou Resemble AI.",
+      "category": "Audio"
+    },
+    {
+      "term": "No-code / Low-code",
+      "definition": "Approche de développement permettant de créer des applications ou automatisations sans écrire de code, ou avec un minimum de code. Adapté aux non-développeurs.",
+      "category": "Technique"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifiant": "colossyan",
+  "name": "Colossyan",
+  "tagline": "Créez des vidéos de formation avec des présentateurs IA professionnels.",
+  "category": "video-avatar",
+  "sector": [
+    "video-audio"
+  ],
+  "priceDetails": "À partir de 28 $/mois (Starter)",
+  "priceType": "Payant",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/colossyan.com",
+  "url": "#",
+  "tags": [
+    "E-learning",
+    "Formation",
+    "Avatar IA"
+  ],
+  "description": "Colossyan est spécialisé dans la création de vidéos de formation professionnelle. Il propose des présentateurs IA réalistes, des quiz interactifs intégrables, et une mise à jour facile du contenu sans re-filmer. Idéal pour les formateurs indépendants et coachs.",
+  "features": [
+    "Présentateurs IA multilingues réalistes",
+    "Quiz et éléments interactifs intégrés",
+    "Mise à jour du script sans re-tourner la vidéo",
+    "Scènes et templates e-learning",
+    "Export SCORM (compatible LMS)"
+  ],
+  "useCases": [
+    "Formateur indépendant qui crée des cours en ligne",
+    "Coach qui produit des programmes vidéo pour ses clients",
+    "Entrepreneur qui digitalise ses formations"
+  ]
+}

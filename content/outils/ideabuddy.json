@@ -1,0 +1,34 @@
+{
+  "identifiant": "ideabuddy",
+  "name": "IdeaBuddy",
+  "tagline": "Transformez votre idée de business en plan d'action structuré.",
+  "category": "business-planning",
+  "sector": [
+    "business-marketing"
+  ],
+  "priceDetails": "Gratuit (limité) / 10 $/mois (Dreamer) / 20 $/mois (Founder)",
+  "priceType": "Freemium",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/ideabuddy.com",
+  "url": "#",
+  "tags": [
+    "Business plan",
+    "Validation",
+    "Entrepreneuriat"
+  ],
+  "description": "IdeaBuddy guide pas-à-pas depuis l'idée brute jusqu'au business plan complet. L'IA aide à valider les hypothèses, identifier les risques, définir le modèle économique et structurer les étapes de lancement. Une sorte de mentor business virtuel pour les primo-entrepreneurs.",
+  "features": [
+    "Guide pas-à-pas de l'idée au plan d'action",
+    "Validation d'hypothèses assistée par IA",
+    "Modélisation financière simplifiée",
+    "Analyse SWOT guidée",
+    "Export du business plan en PDF"
+  ],
+  "useCases": [
+    "Particulier qui a une idée et ne sait pas par où commencer",
+    "Micro-entrepreneur qui structure son projet avant de se lancer",
+    "Porteur de projet qui prépare un dossier de financement"
+  ]
+}

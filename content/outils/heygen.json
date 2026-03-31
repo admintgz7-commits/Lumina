@@ -1,0 +1,34 @@
+{
+  "identifiant": "heygen",
+  "name": "HeyGen",
+  "tagline": "Créez des vidéos avec un avatar IA qui parle à votre place.",
+  "category": "video-avatar",
+  "sector": [
+    "video-audio"
+  ],
+  "priceDetails": "Gratuit (1 min crédit) / 29 $/mois (Creator) / 89 $/mois (Business)",
+  "priceType": "Freemium",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/heygen.com",
+  "url": "#",
+  "tags": [
+    "Avatar IA",
+    "Vidéo sans caméra",
+    "Multilangue"
+  ],
+  "description": "HeyGen permet de créer des vidéos professionnelles avec un avatar IA réaliste qui lit votre script. Vous pouvez cloner votre propre voix et apparence, ou utiliser l'un des 100+ avatars disponibles. Sa fonctionnalité de traduction vidéo avec lip sync est impressionnante.",
+  "features": [
+    "100+ avatars IA réalistes disponibles",
+    "Clonage de voix et d'apparence personnelle",
+    "Traduction vidéo en 40+ langues avec lip sync",
+    "Templates de présentation intégrés",
+    "Export HD"
+  ],
+  "useCases": [
+    "Formateur en ligne qui crée des modules vidéo sans se filmer",
+    "Entrepreneur qui veut une vidéo de présentation professionnelle",
+    "Marketeur qui adapte ses vidéos en plusieurs langues"
+  ]
+}

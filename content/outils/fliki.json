@@ -1,0 +1,34 @@
+{
+  "identifiant": "fliki",
+  "name": "Fliki",
+  "tagline": "Transformez un texte ou un article de blog en vidéo avec voix-off IA.",
+  "category": "video-gen",
+  "sector": [
+    "video-audio"
+  ],
+  "priceDetails": "Gratuit (5 min/mois) / 21 $/mois (Standard) / 66 $/mois (Premium)",
+  "priceType": "Freemium",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/fliki.ai",
+  "url": "#",
+  "tags": [
+    "Text to video",
+    "Voix-off",
+    "Repurposing contenu"
+  ],
+  "description": "Fliki convertit automatiquement un texte, un script ou une URL d'article en vidéo avec voix-off IA. Il sélectionne des visuels pertinents depuis des banques d'images et synchronise le tout. Parfait pour recycler son contenu écrit en vidéo sans effort de montage.",
+  "features": [
+    "Conversion texte → vidéo automatique",
+    "900+ voix IA en 75 langues",
+    "Bibliothèque de 10M+ médias libres de droits",
+    "Sous-titres automatiques",
+    "Formats adaptés pour YouTube, Reels, TikTok"
+  ],
+  "useCases": [
+    "Blogueur qui recycle ses articles en vidéos YouTube",
+    "Créateur de newsletter qui transforme ses éditions en contenu vidéo",
+    "Marketeur qui produit des vidéos explicatives rapidement"
+  ]
+}

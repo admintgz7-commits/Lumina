@@ -1,0 +1,34 @@
+{
+  "identifiant": "hour-one",
+  "name": "Hour One",
+  "tagline": "La plateforme vidéo IA dédiée à la communication professionnelle.",
+  "category": "video-avatar",
+  "sector": [
+    "video-audio"
+  ],
+  "priceDetails": "Plans sur devis — essai gratuit disponible",
+  "priceType": "Sur devis",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/hourone.ai",
+  "url": "#",
+  "tags": [
+    "Vidéo corporate",
+    "Avatar IA",
+    "Communication"
+  ],
+  "description": "Hour One est positionné sur les vidéos de communication professionnelle. Il propose des présentateurs IA très réalistes, un éditeur collaboratif et des intégrations avec les outils courants. Adapté aux indépendants et PME qui veulent un niveau de finition professionnel.",
+  "features": [
+    "Présentateurs IA haute fidélité",
+    "Éditeur collaboratif",
+    "Templates corporate et marketing",
+    "Intégration Slack, Teams, LMS",
+    "Personnalisation de l'avatar à votre image"
+  ],
+  "useCases": [
+    "Indépendant qui crée des présentations commerciales vidéo",
+    "Coach qui produit du contenu e-learning professionnel",
+    "Entrepreneur qui communique régulièrement en vidéo"
+  ]
+}

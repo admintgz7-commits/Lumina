@@ -1,0 +1,34 @@
+{
+  "identifiant": "copysmith",
+  "name": "Copysmith",
+  "tagline": "Générez et gérez tous vos assets marketing depuis une seule plateforme.",
+  "category": "copywriting",
+  "sector": [
+    "business-marketing"
+  ],
+  "priceDetails": "À partir de 19 $/mois (Starter)",
+  "priceType": "Payant",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/copysmith.ai",
+  "url": "#",
+  "tags": [
+    "Copywriting",
+    "Campagnes",
+    "Google Ads"
+  ],
+  "description": "Copysmith génère du contenu marketing (ads, emails, fiches produits) avec des intégrations notables vers Google Ads et WooCommerce. Conçu pour gérer des campagnes complètes depuis un seul endroit, avec une logique de branding cohérente.",
+  "features": [
+    "Génération de copy pour ads, emails, fiches produits",
+    "Intégration directe Google Ads et WooCommerce",
+    "Gestion de campagnes complètes",
+    "Bibliothèque de marque centralisée",
+    "Collaboration possible en équipe"
+  ],
+  "useCases": [
+    "E-commerçant qui synchronise son contenu avec Google Shopping",
+    "Marketeur indépendant qui gère des campagnes multi-formats",
+    "Freelance qui gère plusieurs clients avec des voix distinctes"
+  ]
+}

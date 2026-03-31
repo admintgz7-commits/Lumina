@@ -1,0 +1,34 @@
+{
+  "identifiant": "clipdrop",
+  "name": "Clipdrop",
+  "tagline": "La suite complète de retouche et génération d'images par Stability AI.",
+  "category": "image-editing",
+  "sector": [
+    "image-design"
+  ],
+  "priceDetails": "Gratuit (usage limité) / 9 $/mois (Pro)",
+  "priceType": "Freemium",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/clipdrop.co",
+  "url": "#",
+  "tags": [
+    "Retouche",
+    "Suite complète",
+    "Stability AI"
+  ],
+  "description": "Clipdrop by Stability AI regroupe en une seule plateforme : suppression de fond, débruitage, agrandissement d'image, relighting et génération d'images. C'est la boîte à outils visuelle complète pour les créateurs qui veulent tout faire sans ouvrir Photoshop.",
+  "features": [
+    "Suppression de fond instantanée",
+    "Relighting (modification de l'éclairage après prise de vue)",
+    "Upscaling IA x4 sans perte de qualité",
+    "Générateur d'images Stable Diffusion",
+    "Extension de cadre (outpainting)"
+  ],
+  "useCases": [
+    "E-commerçant qui veut des photos produits sur fond blanc parfait",
+    "Créateur de contenu qui améliore rapidement ses photos",
+    "Designer qui prépare des assets pour ses projets"
+  ]
+}

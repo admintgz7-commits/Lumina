@@ -1,0 +1,34 @@
+{
+  "identifiant": "elai-io",
+  "name": "Elai.io",
+  "tagline": "Convertissez un article ou un PDF en vidéo avec présentateur IA en un clic.",
+  "category": "video-avatar",
+  "sector": [
+    "video-audio"
+  ],
+  "priceDetails": "Gratuit (1 min) / 29 $/mois (Basic) / 125 $/mois (Advanced)",
+  "priceType": "Freemium",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/elai.io",
+  "url": "#",
+  "tags": [
+    "Article to video",
+    "Avatar IA",
+    "E-learning"
+  ],
+  "description": "Elai.io est particulièrement apprécié pour sa conversion d'article ou de PDF en vidéo avec présentateur IA en un clic. Disponible en 65+ langues, il permet de localiser du contenu sans re-filmer. Parfait pour les formateurs et créateurs de contenu.",
+  "features": [
+    "Conversion article/PDF → vidéo automatique",
+    "80+ avatars IA multilingues",
+    "Clonage d'avatar personnalisé",
+    "Éditeur slide-based simple à prendre en main",
+    "Export vers LMS et réseaux sociaux"
+  ],
+  "useCases": [
+    "Formateur qui transforme ses ressources écrites en vidéos",
+    "Entrepreneur qui crée des onboarding vidéo",
+    "Créateur de cours en ligne qui veut du contenu multilingue"
+  ]
+}

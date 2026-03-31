@@ -1,0 +1,35 @@
+{
+  "identifiant": "brandmark",
+  "name": "Brandmark",
+  "tagline": "Créez une identité de marque complète et cohérente avec l'IA.",
+  "category": "branding",
+  "sector": [
+    "image-design",
+    "business-marketing"
+  ],
+  "priceDetails": "25 $ (Basic) / 65 $ (Designer) / 175 $ (Enterprise) — paiement unique",
+  "priceType": "Payant",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/brandmark.io",
+  "url": "#",
+  "tags": [
+    "Branding",
+    "Identité complète",
+    "Paiement unique"
+  ],
+  "description": "Brandmark génère une identité de marque complète : logo, palette de couleurs, typographies, mockups et guidelines de marque. Tout en paiement unique sans abonnement. Le rendu est très professionnel et les fichiers livrés couvrent tous les usages (print, web, réseaux).",
+  "features": [
+    "Logo vectoriel haute résolution",
+    "Palette de couleurs et typographies cohérentes",
+    "Mockups réalistes (cartes, tshirt, tasse, etc.)",
+    "Guide de marque téléchargeable",
+    "Paiement unique sans abonnement"
+  ],
+  "useCases": [
+    "Fondateur qui lance sa marque et veut une identité solide dès le départ",
+    "E-commerçant qui crée une marque de produit",
+    "Freelance qui veut se démarquer avec un branding professionnel"
+  ]
+}

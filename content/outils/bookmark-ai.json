@@ -1,0 +1,34 @@
+{
+  "identifiant": "bookmark-ai",
+  "name": "Bookmark AI (AIDA)",
+  "tagline": "Votre assistant IA personnel qui construit et améliore votre site.",
+  "category": "website-builder",
+  "sector": [
+    "creation-site"
+  ],
+  "priceDetails": "Gratuit (sous-domaine) / 12 $/mois (Standard) / 24 $/mois (Pro)",
+  "priceType": "Freemium",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/bookmark.com",
+  "url": "#",
+  "tags": [
+    "Site web",
+    "Assistant IA",
+    "E-commerce"
+  ],
+  "description": "Bookmark propose AIDA, un assistant IA qui construit votre site en posant quelques questions simples, puis continue à vous suggérer des améliorations au fil du temps. Il intègre des fonctionnalités e-commerce complètes et est particulièrement adapté aux petits commerces et prestataires de services.",
+  "features": [
+    "Assistant IA conversationnel pour créer le site",
+    "E-commerce intégré (boutique, panier, paiement)",
+    "Suggestions d'amélioration continues",
+    "Réservations et prise de RDV intégrées",
+    "Templates spécifiques par secteur d'activité"
+  ],
+  "useCases": [
+    "Commerçant ou artisan qui veut un site avec boutique en ligne",
+    "Thérapeute ou coach qui veut intégrer un système de réservation",
+    "Prestataire qui veut un site qui évolue avec son activité"
+  ]
+}

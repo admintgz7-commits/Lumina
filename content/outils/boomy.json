@@ -1,0 +1,34 @@
+{
+  "identifiant": "boomy",
+  "name": "Boomy",
+  "tagline": "Créez de la musique en quelques clics et monétisez-la sur les plateformes.",
+  "category": "audio",
+  "sector": [
+    "video-audio"
+  ],
+  "priceDetails": "Gratuit (25 chansons/mois) / 9,99 $/mois (Personal) / 29,99 $/mois (Pro)",
+  "priceType": "Freemium",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/boomy.com",
+  "url": "#",
+  "tags": [
+    "Musique IA",
+    "Monétisation",
+    "Streaming"
+  ],
+  "description": "Boomy est unique : il permet de créer de la musique IA en quelques secondes, mais aussi de la soumettre directement sur Spotify, Apple Music et 40+ plateformes pour la monétiser. Idéal pour les curieux et créateurs qui veulent tester une source de revenus passifs via la musique.",
+  "features": [
+    "Création de chansons en quelques clics",
+    "Genres variés (lo-fi, électronique, pop, metal, jazz...)",
+    "Distribution sur 40+ plateformes musicales",
+    "Monétisation des streams",
+    "Droits de propriété conservés par l'utilisateur"
+  ],
+  "useCases": [
+    "Musicien amateur qui veut publier sans studio d'enregistrement",
+    "Entrepreneur qui teste une source de revenus passifs musicaux",
+    "Créateur de contenu qui veut une musique signature originale"
+  ]
+}

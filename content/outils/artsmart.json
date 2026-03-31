@@ -1,0 +1,34 @@
+{
+  "identifiant": "artsmart",
+  "name": "ArtSmart",
+  "tagline": "Générez des images IA avec un contrôle précis sur le résultat.",
+  "category": "image-gen",
+  "sector": [
+    "image-design"
+  ],
+  "priceDetails": "Gratuit (essai) / 29 $/mois (Starter) / 69 $/mois (Pro)",
+  "priceType": "Freemium",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/artsmart.ai",
+  "url": "#",
+  "tags": [
+    "Génération image",
+    "Fine-tuning",
+    "Avatars"
+  ],
+  "description": "ArtSmart propose un générateur d'images IA avec un niveau de contrôle élevé sur le rendu : poses, styles, éclairages, compositions. Il supporte le fine-tuning sur vos propres photos pour créer des avatars ou des personnages cohérents sur la durée.",
+  "features": [
+    "Génération réaliste haute qualité",
+    "Fine-tuning sur vos propres images",
+    "Contrôle avancé (pose, style, éclairage)",
+    "Création d'avatars personnalisés cohérents",
+    "Droits commerciaux inclus"
+  ],
+  "useCases": [
+    "Créateur de contenu qui veut un avatar IA cohérent pour sa marque",
+    "Photographe qui explore des retouches et styles IA",
+    "Marketeur qui génère des personnages pour ses campagnes"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "identifiant": "ghostwriter-ai",
+  "name": "Ghostwriter AI",
+  "tagline": "Un assistant de rédaction IA qui apprend et conserve votre style.",
+  "category": "copywriting",
+  "sector": [
+    "redaction-seo",
+    "business-marketing"
+  ],
+  "priceDetails": "À partir de 9 $/mois",
+  "priceType": "Payant",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/ghostwriter.ai",
+  "url": "#",
+  "tags": [
+    "Rédaction",
+    "Style personnel",
+    "Newsletter"
+  ],
+  "description": "Ghostwriter AI se distingue par sa capacité à apprendre et reproduire votre style d'écriture. Après quelques exemples de vos textes, il génère des contenus qui sonnent comme vous : newsletters, posts LinkedIn, scripts, articles. Idéal pour scaler sa production sans perdre sa voix.",
+  "features": [
+    "Apprentissage de votre style d'écriture personnel",
+    "Templates pour newsletters, posts sociaux, scripts",
+    "Éditeur collaboratif",
+    "Mode voix de marque mémorisable",
+    "Générateur de plans et structures"
+  ],
+  "useCases": [
+    "Newsletter writer qui veut accélérer sans perdre son ton",
+    "Coach ou expert qui crée du contenu dans sa voix",
+    "Créateur LinkedIn qui veut publier plus fréquemment"
+  ]
+}

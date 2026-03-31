@@ -1,0 +1,34 @@
+{
+  "identifiant": "hypefury",
+  "name": "Hypefury",
+  "tagline": "Publiez, planifiez et monétisez votre audience sur X et Instagram.",
+  "category": "social-media",
+  "sector": [
+    "reseaux-sociaux"
+  ],
+  "priceDetails": "19 $/mois (Standard) / 49 $/mois (Premium)",
+  "priceType": "Payant",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/hypefury.com",
+  "url": "#",
+  "tags": [
+    "Twitter / X",
+    "Instagram",
+    "Monétisation"
+  ],
+  "description": "Hypefury va au-delà de la planification : il aide à monétiser son audience via des promotions automatiques de produits ou newsletters après chaque post viral. Particulièrement adapté aux créateurs qui vendent des formations, ebooks ou services en ligne.",
+  "features": [
+    "Planification X et Instagram depuis un seul endroit",
+    "Auto-promotion après vos posts viraux",
+    "Génération de contenu assistée",
+    "Statistiques de croissance",
+    "Templates de threads performants"
+  ],
+  "useCases": [
+    "Infopreneur qui vend des formations et veut automatiser la promotion",
+    "Créateur de newsletter qui veut convertir ses followers",
+    "Coach qui génère des leads depuis ses réseaux sociaux"
+  ]
+}

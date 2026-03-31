@@ -1,0 +1,34 @@
+{
+  "identifiant": "framer-ai",
+  "name": "Framer AI",
+  "tagline": "Le constructeur de sites web le plus créatif, propulsé par l'IA.",
+  "category": "website-builder",
+  "sector": [
+    "creation-site"
+  ],
+  "priceDetails": "Gratuit / 10 $/mois (Mini) / 20 $/mois (Basic) / 35 $/mois (Pro)",
+  "priceType": "Freemium",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/framer.com",
+  "url": "#",
+  "tags": [
+    "Site web",
+    "Design haut de gamme",
+    "No-code"
+  ],
+  "description": "Framer combine un éditeur visuel ultra-puissant avec une IA capable de générer des sections, du texte et des mises en page à la demande. Les résultats sont visuellement bien au-dessus de la moyenne des builders classiques. Courbe d'apprentissage légèrement plus élevée, mais résultat haut de gamme.",
+  "features": [
+    "Génération de sections et textes par prompt IA",
+    "Animations et interactions avancées sans code",
+    "Responsive design automatique",
+    "Publication sur domaine personnalisé",
+    "CMS intégré pour blog et contenu dynamique"
+  ],
+  "useCases": [
+    "Créatif ou designer qui veut un portfolio percutant",
+    "Indépendant qui veut se démarquer visuellement",
+    "Consultant qui veut une landing page d'impact"
+  ]
+}

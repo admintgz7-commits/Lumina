@@ -1,0 +1,34 @@
+{
+  "identifiant": "ink-ai",
+  "name": "INK AI",
+  "tagline": "Rédigez et optimisez SEO simultanément avec l'IA.",
+  "category": "seo-writing",
+  "sector": [
+    "redaction-seo"
+  ],
+  "priceDetails": "Gratuit (limité) / 49 $/mois (Pro) / 99 $/mois (Team)",
+  "priceType": "Freemium",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/inkforall.com",
+  "url": "#",
+  "tags": [
+    "SEO",
+    "Rédaction",
+    "Score en direct"
+  ],
+  "description": "INK AI combine rédaction assistée et optimisation SEO dans un seul éditeur. Son score SEO en temps réel guide la rédaction pour que chaque article soit optimisé dès sa création. Il intègre aussi un mode de protection contre les pénalités IA des moteurs de recherche.",
+  "features": [
+    "Éditeur avec score SEO en temps réel",
+    "Génération de contenu assistée par IA",
+    "Mode protection anti-pénalités IA Google",
+    "Recherche de mots-clés intégrée",
+    "Templates pour tous types de contenus marketing"
+  ],
+  "useCases": [
+    "Rédacteur web qui veut optimiser son contenu pendant qu'il écrit",
+    "Blogueur qui veut éviter les pénalités Google pour contenu IA",
+    "Marketeur qui crée des landing pages et emails optimisés"
+  ]
+}

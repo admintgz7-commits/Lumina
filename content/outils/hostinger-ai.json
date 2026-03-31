@@ -1,0 +1,34 @@
+{
+  "identifiant": "hostinger-ai",
+  "name": "Hostinger AI",
+  "tagline": "L'hébergeur abordable avec un builder IA intégré.",
+  "category": "website-builder",
+  "sector": [
+    "creation-site"
+  ],
+  "priceDetails": "À partir de 2,99 $/mois (hébergement + builder inclus)",
+  "priceType": "Payant",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/hostinger.com",
+  "url": "#",
+  "tags": [
+    "Hébergement",
+    "Site web",
+    "Petit budget"
+  ],
+  "description": "Hostinger propose l'un des meilleurs rapports qualité-prix du marché : hébergement web fiable + builder IA pour créer son site, le tout à moins de 3 $/mois. L'IA génère textes et structure à partir d'un brief simple. Idéal pour démarrer avec un budget serré.",
+  "features": [
+    "Builder IA avec génération de contenu",
+    "Hébergement inclus dans l'abonnement",
+    "Domaine gratuit la première année",
+    "Certificat SSL inclus",
+    "Emails professionnels inclus"
+  ],
+  "useCases": [
+    "Auto-entrepreneur qui lance son premier site avec un petit budget",
+    "Association qui a besoin d'une présence simple en ligne",
+    "Particulier qui veut créer un blog ou portfolio sans se ruiner"
+  ]
+}

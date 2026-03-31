@@ -1,0 +1,34 @@
+{
+  "identifiant": "cleanup-pictures",
+  "name": "Cleanup.pictures",
+  "tagline": "Supprimez n'importe quel élément indésirable d'une photo en un clic.",
+  "category": "image-editing",
+  "sector": [
+    "image-design"
+  ],
+  "priceDetails": "Gratuit (usage limité) / 9 $/mois (Pro)",
+  "priceType": "Freemium",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/cleanup.pictures",
+  "url": "#",
+  "tags": [
+    "Retouche",
+    "Suppression d'objets",
+    "Photo"
+  ],
+  "description": "Cleanup.pictures utilise l'IA pour effacer proprement des objets, des personnes, des textes ou des imperfections sur n'importe quelle photo. L'IA reconstruit intelligemment l'arrière-plan après suppression. Pas besoin de Photoshop, ça fonctionne depuis le navigateur.",
+  "features": [
+    "Suppression d'objets par simple pinceau",
+    "Reconstruction intelligente du fond",
+    "Fonctionne sur mobile et desktop",
+    "Interface ultra-simple",
+    "Traitement en haute résolution (offre Pro)"
+  ],
+  "useCases": [
+    "Vendeur qui veut nettoyer ses photos produits avant publication",
+    "Photographe amateur qui retire un élément gênant d'une photo",
+    "Marketeur qui retouche rapidement des visuels pour ses campagnes"
+  ]
+}

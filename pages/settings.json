@@ -1,0 +1,20 @@
+{
+  "site_name": "Lumina AI",
+  "site_tagline": "Intelligence Gallery — Trouvez l'outil IA fait pour votre métier. Testé, classé, expliqué.",
+  "site_url": "https://lumina-ai.fr",
+  "site_description": "Lumina AI est l'annuaire de référence des outils IA pour particuliers, indépendants, coachs et micro-entrepreneurs.",
+  "og_image": "/assets/og-default.jpg",
+  "footer_tagline": "Intelligence Gallery — Trouvez l'outil IA fait pour votre métier. Testé, classé, expliqué.",
+  "footer_copyright": "© 2026 Lumina AI. Tous droits réservés.",
+  "footer_baseline": "Intelligence for professionals.",
+  "nav_links": [
+    { "label": "Accueil", "href": "/" },
+    { "label": "Outils IA", "href": "/outils" },
+    { "label": "Blog", "href": "/blog" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "nav_cta_ghost": "Soumettre un outil",
+  "nav_cta_ghost_href": "/soumettre",
+  "nav_cta_primary": "Newsletter",
+  "nav_cta_primary_href": "/newsletter"
+}

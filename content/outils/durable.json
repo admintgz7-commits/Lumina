@@ -1,0 +1,34 @@
+{
+  "identifiant": "durable",
+  "name": "Durable",
+  "tagline": "Créez un site web complet en 30 secondes grâce à l'IA.",
+  "category": "website-builder",
+  "sector": [
+    "creation-site"
+  ],
+  "priceDetails": "Gratuit (limité) / 12 $/mois (Starter) / 20 $/mois (Business)",
+  "priceType": "Freemium",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/durable.co",
+  "url": "#",
+  "tags": [
+    "Site web",
+    "IA générative",
+    "No-code"
+  ],
+  "description": "Durable génère automatiquement un site web complet — textes, images, structure — à partir de votre secteur d'activité et de votre nom. Idéal pour les indépendants et micro-entrepreneurs qui veulent une présence en ligne rapide sans budget web ni compétences techniques.",
+  "features": [
+    "Génération de site en 30 secondes",
+    "Éditeur visuel drag & drop",
+    "Formulaire de contact intégré",
+    "Optimisation SEO de base incluse",
+    "Nom de domaine personnalisé (offres payantes)"
+  ],
+  "useCases": [
+    "Coach ou thérapeute qui veut un site vitrine rapidement",
+    "Artisan ou prestataire qui lance son activité",
+    "Freelance qui a besoin d'une page de présentation professionnelle"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "identifiant": "hypotenuse-ai",
+  "name": "Hypotenuse AI",
+  "tagline": "Générez des descriptions produits et contenus e-commerce en masse.",
+  "category": "copywriting",
+  "sector": [
+    "business-marketing"
+  ],
+  "priceDetails": "29 $/mois (Individual) / 59 $/mois (Teams)",
+  "priceType": "Payant",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/hypotenuse.ai",
+  "url": "#",
+  "tags": [
+    "E-commerce",
+    "Fiches produits",
+    "Génération en masse"
+  ],
+  "description": "Hypotenuse AI est spécialisé dans la création de contenu e-commerce : descriptions produits SEO, articles de blog, publicités, emails promotionnels. Sa fonctionnalité phare est la génération en masse depuis un catalogue CSV — des centaines de fiches en quelques minutes.",
+  "features": [
+    "Génération en masse depuis un fichier CSV",
+    "Fiches produits optimisées SEO",
+    "Ton de marque mémorisable et cohérent",
+    "Intégration Shopify et WooCommerce",
+    "Détection de plagiat intégrée"
+  ],
+  "useCases": [
+    "E-commerçant qui gère un catalogue avec des centaines de produits",
+    "Dropshipper qui veut des fiches produits uniques rapidement",
+    "Vendeur Amazon qui optimise ses listings"
+  ]
+}

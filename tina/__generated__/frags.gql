@@ -1,0 +1,147 @@
+fragment HomepageParts on Homepage {
+  __typename
+  hero_eyebrow
+  hero_title
+  hero_subtitle
+  hero_cta_primary
+  hero_cta_secondary
+  transparency_text
+  section_outils_title
+  section_outils_subtitle
+  section_blog_title
+  section_blog_subtitle
+  newsletter_title
+  newsletter_subtitle
+  newsletter_cta
+  announcement_enabled
+  announcement_text
+  announcement_url
+}
+
+fragment SettingsParts on Settings {
+  __typename
+  site_name
+  site_tagline
+  site_url
+  site_description
+  og_image
+  footer_tagline
+  footer_copyright
+  footer_baseline
+  nav_cta_ghost
+  nav_cta_ghost_href
+  nav_cta_primary
+  nav_cta_primary_href
+}
+
+fragment FaqParts on Faq {
+  __typename
+  title
+  subtitle
+  faqs {
+    __typename
+    question
+    answer
+  }
+}
+
+fragment EquipeParts on Equipe {
+  __typename
+  title
+  subtitle
+  intro
+  members {
+    __typename
+    name
+    role
+    bio
+    avatar
+  }
+  values {
+    __typename
+    title
+    description
+  }
+}
+
+fragment SelectionsParts on Selections {
+  __typename
+  slug
+  title
+  description
+  coverPhoto
+  coverAlt
+  metaDescription
+  date
+  intro
+  outils
+  tags
+}
+
+fragment GlossaireParts on Glossaire {
+  __typename
+  terms {
+    __typename
+    term
+    definition
+    category
+  }
+}
+
+fragment ArticlesParts on Articles {
+  __typename
+  title
+  slug
+  sectorLabel
+  sector
+  readTime
+  date
+  coverPhoto
+  coverAlt
+  metaDescription
+  keywordTarget
+  intro
+  pullQuote
+  sections {
+    __typename
+    title
+    body
+  }
+  faq {
+    __typename
+    question
+    answer
+  }
+  tags
+}
+
+fragment OutilsParts on Outils {
+  __typename
+  identifiant
+  name
+  tagline
+  category
+  sector
+  priceDetails
+  priceType
+  badge
+  badgeLabel
+  apiReady
+  tested
+  score
+  logo
+  url
+  tags
+  description
+  features
+  useCases
+}
+
+fragment SecteursParts on Secteurs {
+  __typename
+  identifiant
+  label
+  headline
+  sub
+  photo
+}

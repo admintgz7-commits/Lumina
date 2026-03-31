@@ -1,0 +1,34 @@
+{
+  "identifiant": "d-id",
+  "name": "D-ID",
+  "tagline": "Animez des photos et créez des présentateurs IA parlants.",
+  "category": "video-avatar",
+  "sector": [
+    "video-audio"
+  ],
+  "priceDetails": "Gratuit (20 crédits) / 5,90 $/mois (Lite) / 49,90 $/mois (Pro)",
+  "priceType": "Freemium",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/d-id.com",
+  "url": "#",
+  "tags": [
+    "Avatar IA",
+    "Animation photo",
+    "Agents vidéo"
+  ],
+  "description": "D-ID anime n'importe quelle photo pour lui faire prononcer un texte ou un audio. Vous pouvez aussi créer des agents conversationnels vidéo en temps réel. Utilisé pour des présentations, l'e-learning et les chatbots vidéo.",
+  "features": [
+    "Animation de photos par script ou fichier audio",
+    "Création d'agents vidéo conversationnels",
+    "Génération d'avatars IA personnalisés",
+    "API disponible pour intégration",
+    "Support de 100+ langues"
+  ],
+  "useCases": [
+    "Coach qui crée des vidéos pédagogiques sans se filmer",
+    "Entrepreneur qui veut un présentateur virtuel pour son site",
+    "Créateur qui anime des personnages illustrés pour sa chaîne"
+  ]
+}

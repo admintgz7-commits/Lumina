@@ -1,0 +1,34 @@
+{
+  "identifiant": "anyword",
+  "name": "Anyword",
+  "tagline": "Générez des copies marketing qui convertissent, optimisées par les données.",
+  "category": "copywriting",
+  "sector": [
+    "business-marketing"
+  ],
+  "priceDetails": "39 $/mois (Starter) / 79 $/mois (Data-Driven) / 349 $/mois (Business)",
+  "priceType": "Payant",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/anyword.com",
+  "url": "#",
+  "tags": [
+    "Copywriting",
+    "Conversion",
+    "Publicité"
+  ],
+  "description": "Anyword est l'outil de copywriting IA le plus orienté performance : chaque texte généré est associé à un score de conversion prédictif basé sur des millions de campagnes analysées. Idéal pour les publicités Facebook/Google, les landing pages et les emails marketing.",
+  "features": [
+    "Score de performance prédictif pour chaque variation",
+    "Templates pour ads, emails, landing pages, SMS",
+    "Analyse de l'audience cible",
+    "Tests A/B assistés par IA",
+    "Ton de marque personnalisable et mémorisable"
+  ],
+  "useCases": [
+    "Entrepreneur qui veut des publicités Facebook qui convertissent",
+    "E-commerçant qui optimise ses fiches produits et emails",
+    "Freelance en copywriting qui veut accélérer sa production"
+  ]
+}

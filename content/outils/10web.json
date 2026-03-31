@@ -1,0 +1,34 @@
+{
+  "identifiant": "10web",
+  "name": "10Web",
+  "tagline": "Créez et hébergez un site WordPress optimisé avec l'IA.",
+  "category": "website-builder",
+  "sector": [
+    "creation-site"
+  ],
+  "priceDetails": "À partir de 10 $/mois (hébergement + builder inclus)",
+  "priceType": "Payant",
+  "badge": "",
+  "badgeLabel": "",
+  "apiReady": false,
+  "logo": "https://logo.clearbit.com/10web.io",
+  "url": "#",
+  "tags": [
+    "WordPress",
+    "Hébergement",
+    "IA"
+  ],
+  "description": "10Web combine un générateur de site IA avec un hébergement WordPress managé haute performance. Vous décrivez votre activité, l'IA construit un site WordPress complet que vous personnalisez ensuite. Parfait pour ceux qui veulent la puissance de WordPress sans la complexité technique.",
+  "features": [
+    "Génération de site WordPress par l'IA",
+    "Hébergement managé (cache, sécurité, sauvegardes)",
+    "Éditeur Elementor intégré",
+    "Score PageSpeed 90+ garanti",
+    "Migration depuis un site existant"
+  ],
+  "useCases": [
+    "Entrepreneur qui veut WordPress sans gérer l'hébergement",
+    "Blogueur qui veut un site rapide et optimisé SEO",
+    "Indépendant qui délègue la partie technique"
+  ]
+}
