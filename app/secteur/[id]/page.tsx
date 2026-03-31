@@ -5,8 +5,14 @@ import { getAllOutils, getAllArticles, getAllSecteurs } from '@/lib/content';
 import SecteurClient from './SecteurClient';
 
 export async function generateStaticParams() {
-  const secteurs = getAllSecteurs();
-  return secteurs.map((s: any) => ({ id: s.identifiant || s.id }));
+  return [
+    { id: 'creation-site' },
+    { id: 'redaction-seo' },
+    { id: 'reseaux-sociaux' },
+    { id: 'image-design' },
+    { id: 'video-audio' },
+    { id: 'business-marketing' },
+  ];
 }
 
 export async function generateMetadata({
