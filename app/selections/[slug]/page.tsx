@@ -5,10 +5,14 @@ import { getOutilById, getAllSecteurs } from '@/lib/content';
 import SelectionClient from './SelectionClient';
 
 export async function generateStaticParams() {
-  const res = await client.queries.selectionsConnection();
-  return (res.data.selectionsConnection.edges ?? []).map((e) => ({
-    slug: e!.node!.slug,
-  }));
+  try {
+    const res = await client.queries.selectionsConnection();
+    return (res.data.selectionsConnection.edges ?? []).map((e) => ({
+      slug: e!.node!.slug,
+    }));
+  } catch {
+    return [];
+  }
 }
 
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
