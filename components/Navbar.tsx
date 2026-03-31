@@ -9,6 +9,7 @@ export default function Navbar() {
   const pathname = usePathname();
 
   const isActive = (href: string) => {
+    if (!pathname) return false;
     if (href === '/') return pathname === '/';
     return pathname.startsWith(href);
   };
@@ -29,7 +30,7 @@ export default function Navbar() {
               onMouseEnter={() => setRessourcesOpen(true)}
               onMouseLeave={() => setRessourcesOpen(false)}
             >
-              <button className={`nav-link ${isActive('/selections') || isActive('/glossaire') || isActive('/faq') || isActive('/nouveautes') || isActive('/equipe') ? 'active' : ''}`}
+              <button type="button" className={`nav-link ${isActive('/selections') || isActive('/glossaire') || isActive('/faq') || isActive('/nouveautes') || isActive('/equipe') ? 'active' : ''}`}
                 style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
                 Ressources
                 <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" style={{ opacity: .6, transition: 'transform .15s', transform: ressourcesOpen ? 'rotate(180deg)' : 'none' }}>
@@ -67,7 +68,7 @@ export default function Navbar() {
             <Link href="/newsletter" className="btn btn-primary btn-sm">Newsletter</Link>
           </div>
 
-          <button className="hamburger" onClick={() => setMobileOpen(!mobileOpen)} aria-label="Menu">
+          <button type="button" className="hamburger" onClick={() => setMobileOpen(!mobileOpen)} aria-label="Menu">
             <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
               {mobileOpen ? <path d="M6 18L18 6M6 6l12 12"/> : <path d="M4 6h16M4 12h16M4 18h16"/>}
             </svg>
