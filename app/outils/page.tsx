@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { Suspense } from 'react';
 import { getAllOutils, getAllSecteurs } from '@/lib/content';
 import OutilsClient from './OutilsClient';
 import Footer from '@/components/Footer';
@@ -15,7 +16,9 @@ export default function OutilsPage() {
 
   return (
     <>
-      <OutilsClient outils={outils} secteurs={secteurs} />
+      <Suspense fallback={<div style={{ paddingTop: 'var(--nav-h)', minHeight: '400px' }} />}>
+        <OutilsClient outils={outils} secteurs={secteurs} />
+      </Suspense>
       <Footer secteurs={secteurs} />
     </>
   );
