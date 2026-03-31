@@ -6,7 +6,7 @@ import OutilClient from './OutilClient';
 
 export async function generateStaticParams() {
   const outils = getAllOutils();
-  return outils.map((t: any) => ({ id: t.identifiant || t.id }));
+  return outils.map((t: any) => ({ id: t.id }));
 }
 
 export async function generateMetadata({
@@ -49,6 +49,13 @@ export default async function OutilPage({
   const secteurs = getAllSecteurs();
   const articles = getAllArticles();
 
+  const altCount = allOutils.filter((t: any) =>
+    t.id !== params.id && (
+      t.category === tool.category || 
+      t.sector?.some((s: string) => (tool.sector ?? []).includes(s))
+    )
+  ).length;
+
   const relatedTools = allOutils
     .filter(
       (t: any) =>
@@ -69,6 +76,7 @@ export default async function OutilPage({
       relatedTools={relatedTools}
       relatedArticles={relatedArticles}
       secteurs={secteurs}
+      altCount={altCount}
     />
   );
 }
