@@ -5,10 +5,14 @@ import { getAllSecteurs, getAllArticles } from '@/lib/content';
 import ArticleClient from './ArticleClient';
 
 export async function generateStaticParams() {
-  const res = await client.queries.articlesConnection();
-  return (res.data.articlesConnection.edges ?? []).map((e) => ({
-    slug: e!.node!.slug,
-  }));
+  try {
+    const res = await client.queries.articlesConnection();
+    return (res.data.articlesConnection.edges ?? []).map((e) => ({
+      slug: e!.node!.slug,
+    }));
+  } catch {
+    return [];
+  }
 }
 
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
