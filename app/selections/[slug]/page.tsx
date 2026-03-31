@@ -4,6 +4,8 @@ import { client } from '@/tina/__generated__/client';
 import { getOutilById, getAllSecteurs } from '@/lib/content';
 import SelectionClient from './SelectionClient';
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   try {
     const res = await client.queries.selectionsConnection();
