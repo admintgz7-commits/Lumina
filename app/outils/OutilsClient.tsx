@@ -39,6 +39,7 @@ export default function OutilsClient({ outils, secteurs }: { outils: any[]; sect
   const PER_PAGE = 16;
 
   useEffect(() => {
+    if (!searchParams) return;
     const s = searchParams.get('secteur');
     const c = searchParams.get('categorie');
     if (s) setActiveSector(s);
